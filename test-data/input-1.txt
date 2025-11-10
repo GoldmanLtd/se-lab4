@@ -1,3 +1,4 @@
-# Create a ship with stocked torpedo stores that never fail and firing mode ALL
+#teszt: Single - elsodleges, aztan masodlagos
 GT4500,10,0,10,0
-TORPEDO,ALL  # should have fired from ALL store
+TORPEDO,SINGLE
+TORPEDO,SINGLE

@@ -1,3 +1,4 @@
-# Create a ship 0
-GT4500,0,0,0,0
-TORPEDO,ALL  # should have fired from ALL store
+#teszt: Single -masodlagos ures, elsodleges tuzel ketszer
+GT4500,10,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

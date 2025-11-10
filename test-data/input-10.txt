@@ -1,0 +1,4 @@
+#Teszt: SINGLE - Tüzeles sikertelen (hibaarany miatt)
+#fire false-t ad vissza
+GT4500,10,1.0,10,0
+TORPEDO,SINGLE

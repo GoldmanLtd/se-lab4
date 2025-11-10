@@ -1,3 +1,4 @@
-# Create a ship 0 and 1
+#teszt: Single - mindket tar ures, masodlagos tuzel, valtas utan
 GT4500,1,0,0,0
-TORPEDO,SINGLE  # should have fired from ALL store
+TORPEDO,SINGLE
+TORPEDO,SINGLE
