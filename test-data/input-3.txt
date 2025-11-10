@@ -1,0 +1,4 @@
+#teszt: Single -masodlagos ures, elsodleges tuzel ketszer
+GT4500,10,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

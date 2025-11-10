@@ -1,0 +1,4 @@
+#teszt: Single - mindket tar ures, masodlagos tuzel, valtas utan
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

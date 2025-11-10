@@ -1,0 +1,4 @@
+# Teszt: ALL - Mindket tüzeles sikertelen (hibaarany miatt)
+#de mindket fire() false-t ad vissza
+GT4500,10,1.0,10,1.0
+TORPEDO,ALL
